@@ -1,0 +1,1 @@
+FSC_MODELS - folder of fastsimcoal model template files (.tpl) used to conduct coalescent simulations.  There are two files for each model in the folder, one for simulations of mitochondrial DNA sequences (mtDNA_) and another for microsatellite simulations (SSR_)
