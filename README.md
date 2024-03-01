@@ -1,4 +1,7 @@
 # HarlequinDuck
+
+https://zenodo.org/doi/10.5281/zenodo.10732392
+
 Model code and metadata for Harlequin Duck manuscript
 
 #Contents of directory
